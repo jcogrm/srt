@@ -21,7 +21,9 @@
 	right: 0;
 }
 
-
+.jw-skin-drakgons .jw-controlbar .jw-overlay {
+	bottom: 3.4em;
+}
 
 .jw-skin-drakgons .jw-controlbar-center-group {
 	padding: 0 20px;

@@ -6,7 +6,7 @@
 	border-radius: 50px;
 }
 
-.jw-skin-drakgons .jw-display-icon-container:hover {
+.jw-skin-drakgons .jwplayer:not(.jw-flag-touch):not(.jw-error):not(.jw-state-error):not(.jw-state-buffering) .jw-media:hover~.jw-controls .jw-display-icon-display {
 	background-color: #fd2267;
 }
 

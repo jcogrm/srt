@@ -2,6 +2,14 @@
 	background-color: rgba(0, 0, 0, 0.1);
 }
 
+.jw-error .jw-display-icon-container, .jwplayer .jw-display-icon-container {
+	border-radius: 50px;
+}
+
+.jw-display-icon-container:hover {
+	background-color: #fd2267;
+}
+
 .jw-skin-drakgons .jw-controlbar {
 	align-items: center;
 	background: linear-gradient(180deg, transparent, black);

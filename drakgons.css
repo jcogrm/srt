@@ -6,10 +6,6 @@
 	border-radius: 50px;
 }
 
-.jw-skin-drakgons .jwplayer:not(.jw-flag-touch):not(.jw-error):not(.jw-state-error):not(.jw-state-buffering) .jw-media:hover~.jw-controls .jw-display-icon-display {
-	background-color: #fd2267;
-}
-
 .jw-skin-drakgons .jw-controlbar {
 	align-items: center;
 	background: linear-gradient(180deg, transparent, black);
@@ -21,9 +17,6 @@
 	right: 0;
 }
 
-.jw-skin-drakgons .jw-controlbar .jw-overlay {
-	bottom: 3.4em;
-}
 
 .jw-skin-drakgons .jw-controlbar-center-group {
 	padding: 0 20px;
